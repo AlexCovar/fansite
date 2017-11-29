@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+		body{
+			background-image:url("https://i1.wp.com/www.geekoutpost.com/wp-content/uploads/2015/10/SSBUHyruleCastle64.png");
+			background-size:cover;
+			margin:0;
+			font-family:;
+			font-size:;
+			}
+		ul {
+    		list-style-type: none;
+    		margin: 0;
+    		padding: 0;
+    		width:200px;
+    		background-color:;
+		}
+		img {
+
+		}
+		li a {
+    		display: block;
+    		color:white;
+    		padding:8px 16px;
+    		text-decoration:none;
+		}
+		li a:hover {
+			background-color:maroon;
+			color:white;
+		}
+		h1 {
+			color:red;
+		}
+		h2 {
+			color:blue;
+		}
+		p {
+			color:cyan;
+		}
+		#banner {
+			width:1000px;
+			height:350px; 
+			margin:0 auto;
+			text-align:center;
+			padding:10px;
+			background-image:url(https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/Super_Smash_Bros_4_merged_logo%2C_no_subtitle.png/revision/latest?cb=20130704144259);
+			background-size:80%;
+			border:;
+			border-radius:10px;
+			background-repeat: no-repeat; 
+			background-position: 50% 50%;
+		}
+		#nav {
+			white-space:nowrap;
+			text-align:center; 
+		}
+		#nav a{
+				font-family: OCR A Std, monospace;
+				font-weight:bold;
+				color:yellow;   
+				text-transform: uppercase;
+				margin-right: 10px;
+				padding: 10px;
+				}
+		#wrapper {
+			width:1000px;
+			border:solid blue 2px;
+			height:500px; 
+			margin-left:auto;
+			margin-right:auto;
+			padding:10px;
+
+		}
+		#main {
+			width:700px;
+			margin-left:auto;
+			margin-right:auto;
+			border:;
+			float: left;
+			height:400px; 
+			padding:5px;
+			padding-right:3px;
+		}
+		#aside {
+			width:280px;
+			float:right;
+			border:solid yellow;
+			height:400px;
+		}
+		#footer{
+			width:1050px;
+			margin-left: auto;
+			margin-right: auto;
+			font-family:;
+			color:red;
+			font-size:17px;
+			text-transform: uppercase;
+			border: solid;
+			padding-top: 10px;
+			clear:both;
+			}
+		.imgLeft{
+			float:left;
+			margin-right:15;
+
+			}
+		.imgRight{
+			float:right;
+			margin-left:15;
+			}
