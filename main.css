@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Bungee');
 		body{
 			background-image:url("https://i1.wp.com/www.geekoutpost.com/wp-content/uploads/2015/10/SSBUHyruleCastle64.png");
 			background-size:cover;
@@ -30,12 +31,15 @@
 		}
 		h1 {
 			color:red;
+			font-family: 'Bungee', cursive;
 		}
 		h2 {
 			color:blue;
+			font-family: 'Bungee', cursive;
 		}
 		p {
-			color:cyan;
+			color:green;
+			font-family: 'Bungee', cursive;
 		}
 		#banner {
 			width:1000px;
